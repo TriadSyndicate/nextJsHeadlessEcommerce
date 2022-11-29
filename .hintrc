@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/name-role-value": "off"
+    /* eslint-disable @next/next/no-img-element */
+  }
+}
